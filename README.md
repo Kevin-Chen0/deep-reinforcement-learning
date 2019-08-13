@@ -9,7 +9,7 @@
 
 This repository originally contains material related to Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program. Here are the project depictions:
 
-1) **Navigation:** See the p1_navigation directory* for more.
+1) **Navigation:** See the *p1_navigation directory* for more.
 2) **Continuous Control:** See the *p2_continuous-control* directory for more.
 3) **Collaboration Competition:** See the *p3_collab-compet* directory for more.
 
