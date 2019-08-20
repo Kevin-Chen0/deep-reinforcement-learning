@@ -6,6 +6,8 @@
 
 # Project 2: Continuous Control
 
+Please see the [Instructions.md](https://github.com/Kevin-Chen0/deep-reinforcement-learning/blob/master/p2_continuous-control/Instructions.md) file for project execution instructions.
+
 ### Introduction
 
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
