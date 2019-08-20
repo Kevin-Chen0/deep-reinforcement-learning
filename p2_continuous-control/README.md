@@ -6,6 +6,8 @@
 
 # Project 2: Continuous Control
 
+Please see the Instructions.md file for project execution instructions.
+
 ### Introduction
 
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
