@@ -6,6 +6,9 @@
 
 # Project 3: Collaboration and Competition
 
+
+Please see the [Instructions.md](https://github.com/Kevin-Chen0/deep-reinforcement-learning/blob/master/p3_collab-compet/Instructions.md) file for the final Report details.
+
 ### Introduction
 
 For this project, you will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
