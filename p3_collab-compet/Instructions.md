@@ -8,4 +8,4 @@ Go to [Report.ipynb](https://github.com/Kevin-Chen0/deep-reinforcement-learning/
 
 [test_run.py](https://github.com/Kevin-Chen0/deep-reinforcement-learning/blob/master/p3_collab-compet/test_run.py) also contains the source code from Report.ipynb but in a separate Python file. It is not needed to see or use the Report.
 
-Please do not look at [Tennis.ipynb](https://github.com/Kevin-Chen0/deep-reinforcement-learning/blob/master/p2_continuous-control/Tennis.ipynb) as that just contains the template of the Report.
+Please do not look at [Tennis.ipynb](https://github.com/Kevin-Chen0/deep-reinforcement-learning/blob/master/p3_collab-compet/Tennis.ipynb) as that just contains the template of the Report.
